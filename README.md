@@ -1,4 +1,5 @@
-# one-click-vless-tcp-reality
+# 一键 Reality 脚本
+
 一键生成 Reality 配置。
 
 # 使用方法
